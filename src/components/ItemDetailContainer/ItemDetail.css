@@ -3,28 +3,18 @@
     margin: auto;
     padding: 10px;
     border: 1px solid rgba(169, 168, 168, 0.357);
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
 .m-3{
     width: 24rem;
     background-color: rgba(230, 249, 249, 0.577);
-    border-radius: 15px;
-}
-
-.btn-primary{
-    margin-right: 20px;
-}
-
-.Cards{
-    margin-left: 00px;
+    border-radius: 0px;
 }
 
 .imagen{
-    border-radius: 15px;
     height: 200px;
     width: 250px;
-    margin-left: 12px;
 }
 
 .envio{
